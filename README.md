@@ -6,4 +6,4 @@
 - CSS
 
 ## [Live Site](https://my-online-meals.netlify.app)
- https://my-online-meals.netlify.app/
+https://yashitkumar.github.io/online-food-delivery-service/
